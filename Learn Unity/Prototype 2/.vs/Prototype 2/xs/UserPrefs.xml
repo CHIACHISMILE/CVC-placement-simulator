@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{26005786-6F87-D14A-9974-E2C6B23063D5}|">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/DestroyOutOfBounds.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="38" Column="1" />
+      <File FileName="Assets/Scripts/MoveForward.cs" Line="20" Column="6" />
+      <File FileName="Assets/Scripts/DestroyOutOfBounds.cs" Line="28" Column="2" />
+      <File FileName="Assets/Scripts/SpawnManager.cs" Line="17" Column="39" />
+      <File FileName="Assets/Scripts/DetectCollisions.cs" Line="23" Column="6" />
+      <File FileName="Assets/Challenge 2/Scripts/DestroyOutOfBoundsX.cs" Line="22" Column="36" />
+      <File FileName="Assets/Challenge 2/Scripts/SpawnManagerX.cs" Line="32" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Prototype 2" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Challenge 2" expanded="True">
+                <Node name="Scripts" expanded="True" />
+              </Node>
+              <Node name="Scripts" expanded="True">
+                <Node name="DestroyOutOfBounds.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9684d873-cf8c-48ee-985e-ab8e2e328004" />
+</Properties>
